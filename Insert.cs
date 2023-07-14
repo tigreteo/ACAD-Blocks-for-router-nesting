@@ -16,7 +16,7 @@ namespace Blocks_for_Nesting
         {
             //!!!!!!!!!!!!!!!!!!!!! HARDCODED INFO
             //vvvvvvvvvvvvvvvvv Spec sheet location in code
-            string specSheet = @"Y:\Engineering\Drawings\Blocks\Standard Forms\SF_CNC_BORDER_V2.dwg";
+            string specSheet = @"DRIVE LOC:\FILEPATH\SF_CNC_BORDER_V2.dwg";
             List<double> insertArea = new List<double>();
             insertArea.Add(10.37497925);
             insertArea.Add(6.49834463);
